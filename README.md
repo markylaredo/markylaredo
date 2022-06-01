@@ -17,7 +17,7 @@
 </div>
 <br>
 <div size='20px'> 
-I've worked with a wide variety of programming languages and frameworks such as JavaScript, C++,C, C#, ASP.Net Core and VB.Net. I believe that computing is affecting the lives of everyone on the planet and I think it is important to provide better tools/software program for people to access the potential offered by computer.
+I've worked with a wide variety of programming languages and frameworks such as JavaScript, Vue.js, Nuxt.js, C++,C, C#, ASP.Net Core and VB.Net. I believe that computing is affecting the lives of everyone on the planet and I think it is important to provide better tools/software program for people to access the potential offered by computer.
 </div>
 <br>
 <br>
