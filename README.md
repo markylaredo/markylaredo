@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%"> </h1>
+<h1> Hello Fellow < Developers/ >!  </h1>
 <p align='center'>
 <p align='center'>
 
@@ -22,7 +22,7 @@ I've worked with a wide variety of programming languages and frameworks such as 
 <br>
 <br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> </h2>
+<h2> Skills</h2>
 <a href= https://github.com/markylaredo?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/markylaredo?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/markylaredo?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -36,7 +36,7 @@ I've worked with a wide variety of programming languages and frameworks such as 
 <a href= https://github.com/markylaredo?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h2>
+<h2> Connect with me  </h2>
 <a href = 'https://www.linkedin.com/in/mark-laredo'> <img width = '32px' align= 'center' src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/></a> 
 <a href = 'https://markanthonylaredo.ml/'> <img width = '32px' align= 'center' src="https://markanthonylaredo.ml/img/icons/favicon-32x32.png"/></a> 
 <a href = 'https://www.github.com/markylaredo'> <img width = '32px' align= 'center' src="https://github.githubassets.com/favicons/favicon.png"/></a> 
