@@ -1,8 +1,17 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/markylaredo?pet-id=656754705843223943"
+    width="600"
+    height="125"
+  />
+</a>
+  
 <h1> Hello Fellow < Developers/ >!  </h1>
 <p align='center'>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Mark Anthony Laredo. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Mark Anthony Laredo. Thank You for taking the time to view my GitHub Profile
 </div>
 <br>
 
@@ -16,9 +25,4 @@ I've worked with a wide variety of programming languages and frameworks such as 
 </div>
 <br>
 <br>
-
-<h2> Connect with me  </h2>
-<a href = 'https://www.linkedin.com/in/mark-laredo'> <img width = '32px' align= 'center' src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/></a> 
-<a href = 'https://markanthonylaredo.ml/'> <img width = '32px' align= 'center' src="https://markanthonylaredo.ml/img/icons/favicon-32x32.png"/></a> 
-<a href = 'https://www.github.com/markylaredo'> <img width = '32px' align= 'center' src="https://github.githubassets.com/favicons/favicon.png"/></a> 
   
