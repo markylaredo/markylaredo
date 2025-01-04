@@ -26,7 +26,7 @@
 <br>
 
 <div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  Along the way, I’ve had the chance to work with technologies like <strong>JavaScript</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>C#</strong>, <strong>ASP.NET Core</strong>, and <strong>VB.NET</strong>. I’m passionate about how technology can positively impact people’s lives, and I hope to contribute—no matter how small—to that mission.
+  Along the way, I’ve had the chance to work with technologies like <strong>JavaScript</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>VB.NET</strong>, <strong>Docker</strong>, and etc... I’m passionate about how technology can positively impact people’s lives, and I hope to contribute—no matter how small—to that mission.
 </div>
 <br>
 <div style="font-size: 18px; text-align: justify; margin-top: 10px;">
