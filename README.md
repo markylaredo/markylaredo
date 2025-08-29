@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<h2>About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div style="font-size: 18px; text-align: justify; margin-top: 10px;">
   I’m a software engineer from the Philippines with over 8 years of experience. I’ve been fortunate to work on building websites and applications, and I always aim to create things that are both useful and meaningful.
