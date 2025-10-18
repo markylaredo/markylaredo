@@ -7,29 +7,36 @@
   />
 </a>
 
-<h1 align="center">Hi, Fellow Developers! 👋</h1>
+## 👋 About Me
 
-<p align="center">
-  <strong>Welcome to my little corner on GitHub! 😊</strong>
-</p>
+Hi! I’m **Marky Laredo**, a software developer from the **Philippines** with over **8 years of experience** building modern web and software applications.
+I enjoy crafting solutions that are **practical**, **efficient**, and **meaningful**.
 
-<div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  Hello! I'm <strong>Mark Anthony Laredo</strong>, and I'm really grateful you're here.
-</div>
-<br>
+---
 
-<h2 align="center">About Me</h2>
+## 🧰 Tech Stack & Tools
 
-<div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  I’m a software engineer from the Philippines with over 8 years of experience. I’ve been fortunate to work on building websites and applications, and I always aim to create things that are both useful and meaningful.
-</div>
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js\&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs\&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet\&logoColor=fff)
+![VB.NET](https://img.shields.io/badge/VB.NET-945DB7?logo=visualstudio\&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=fff)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver\&logoColor=fff)
 
-<div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  Along the way, I’ve had the chance to work with technologies like <strong>JavaScript</strong>, <strong>Vue.js</strong>, <strong>Nuxt.js</strong>, <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>VB.NET</strong>, <strong>Docker</strong>, etc... I’m passionate about how technology can positively impact people’s lives, and I hope to contribute—no matter how small—to that mission.
-</div>
-<br>
-<div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  I’m always learning and improving, and I truly believe in the value of collaboration and community. If something here catches your eye, feel free to connect—I’d love to learn from you too!
-</div>
-<br>
+---
+
+## ⚙️ Server & DevOps Skills
+
+💻 **Server Management:** Experienced in setting up, configuring, and maintaining both **Linux** 🐧 and **Windows** 🪟 servers.
+🚀 Skilled in **deployment automation**, **Docker containerization**, and **system performance tuning**.
+🔒 Familiar with **secure environments**, **SSL setup**, and **CI/CD pipelines**.
+
+---
+
+## 🌱 What Drives Me
+
+I’m passionate about continuous learning, building things that matter, and collaborating with others to create impactful solutions.
+If something here resonates with you — feel free to reach out! I’d love to **connect**, **collaborate**, or **learn together**.
