@@ -14,7 +14,7 @@
 </p>
 
 <div style="font-size: 18px; text-align: justify; margin-top: 10px;">
-  Hello! I'm <strong>Mark Anthony Laredo</strong>, and I'm really grateful you're here. Thanks for taking a moment to check out my profile—it means a lot!
+  Hello! I'm <strong>Mark Anthony Laredo</strong>, and I'm really grateful you're here.
 </div>
 <br>
 
