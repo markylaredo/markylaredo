@@ -1,7 +1,7 @@
 <a href="https://github.com/devxb/gitanimals" target="_blank">
   <img
     src="https://render.gitanimals.org/lines/markylaredo?pet-id=656754705843223943"
-    alt="GitAnimals Badge for Markylaredo"
+    alt="Animals Badge"
     width="600"
     height="120"
   />
