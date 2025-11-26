@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi! I’m **Marky Laredo**, a software developer from the **Philippines** with over **8 years of experience** building modern web and software applications.
+Hi! I’m **Marky Laredo**, a software developer from the **Philippines** with over **10 years of experience** building modern web and software applications.
 I enjoy crafting solutions that are **practical**, **efficient**, and **meaningful**.
 
 ---
