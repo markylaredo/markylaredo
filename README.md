@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/markylaredo?pet-id=656754705843223943"
     alt="Animals Badge"
-    width="600"
+    width="100%"
     height="120"
   />
 </a>
