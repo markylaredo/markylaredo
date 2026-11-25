@@ -1,73 +1,81 @@
-<a href="https://github.com/devxb/gitanimals" target="_blank">
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/markylaredo?pet-id=656754705843223943"
-    alt="Animals Badge"
+    alt="GitAnimals"
     width="100%"
     height="120"
   />
 </a>
 
-## 👋 About Me
+### hey, i'm marky.
 
-Hi! I’m **Marky Laredo**, a software developer from the **Philippines** with over **10 years of experience** building practical, scalable, and production-ready software solutions.
+Software developer from the Philippines.
 
-I work across **backend**, **frontend**, **mobile**, **databases**, **servers**, and **automation**, with a strong focus on building systems that solve real operational problems. Most of my work involves business systems, electric cooperative platforms, ERP modules, workflow automation, reporting tools, and internal productivity applications.
+Mostly building things, fixing things, and figuring things out along the way.
 
-I enjoy designing clean architectures, improving legacy systems, optimizing databases, and turning complex business processes into reliable software.
+#### what i work with
 
----
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="42" alt="C#"/>
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="42" alt=".NET"/>
+      <br>.NET
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="42" alt="Vue"/>
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="42" alt="Nuxt"/>
+      <br>Nuxt
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="42" alt="Tailwind CSS"/>
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="42" alt="Android"/>
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42" alt="Linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="42" alt="Nginx"/>
+      <br>Nginx
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="42" alt="GitHub Actions"/>
+      <br>CI/CD
+    </td>
+  </tr>
+</table>
 
-## 🧰 Tech Stack & Tools
+Development · Systems Engineering · DevOps
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js\&logoColor=fff)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs\&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet\&logoColor=fff)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet\&logoColor=fff)
-![VB.NET](https://img.shields.io/badge/VB.NET-945DB7?logo=visualstudio\&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=fff)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver\&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=000)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx\&logoColor=fff)
+#### what i do
 
----
+Business systems, automation, mobile apps, and random side projects.
 
-## ⚙️ What I Build
+From writing code to setting up servers and keeping things running in production.
 
-* 🏢 **ERP and business management systems**
-* ⚡ **Electric cooperative systems**
-* 🧾 **Billing, ledger, membership, and service connection workflows**
-* 🛠️ **Help desk, audit logs, notifications, and approval flows**
-* 🗺️ **Maps, GIS, and location-based tools**
-* 📱 **Android apps**
-* 🐳 **Dockerized deployments and Linux server setups**
-* 📊 **Reports, dashboards, and operational monitoring tools**
-
----
-
-## 🖥️ Server & DevOps Skills
-
-I have hands-on experience setting up, configuring, and maintaining both **Linux** and **Windows** servers.
-
-My usual server and deployment work includes:
-
-* Docker and docker-compose deployments
-* SSL configuration
-* PostgreSQL and SQL Server management
-* CI/CD workflows
-* System performance tuning
-* Backup and restore planning
-* Secure server configuration
-
----
-
-## 🌱 What Drives Me
-
-I enjoy learning, building, and improving systems that have real-world impact.
-
-My goal is to create software that is not only functional, but also reliable, maintainable, and useful for the people who depend on it every day.
-
-I’m always open to learning, collaboration, and building better solutions.
+*Keeping things simple. Always learning.*
